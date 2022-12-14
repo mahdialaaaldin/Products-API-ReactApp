@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../styles/body.css";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 function Body() {
   const [products, setproducts] = useState([]);
