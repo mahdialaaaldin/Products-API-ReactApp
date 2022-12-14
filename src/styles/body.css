@@ -1,0 +1,18 @@
+.productName {
+  font-weight: bold;
+}
+/* .img-fluid {
+    border: 1px solid red;
+  } */
+.products {
+  margin: 2em;
+}
+.col-md-4 {
+  margin-top: 2em;
+  text-align: center;
+}
+img {
+  height: 200px;
+  width: 300px;
+  margin-top: 1em;
+}
